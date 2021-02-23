@@ -1,0 +1,2 @@
+# aidea
+AI idea hub
