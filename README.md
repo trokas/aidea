@@ -1,2 +1,3 @@
-# aidea
-AI idea hub
+# AI ideas
+
+AI idea hub containing small experiments.
